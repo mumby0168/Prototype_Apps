@@ -1,5 +1,5 @@
-name: app_template
-description: A new Flutter project.
+name: demoflutterapp
+description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  geolocator: ^5.3.1
   flutter:
     sdk: flutter
 
